@@ -1,0 +1,4 @@
+frequency,completed_bars,warmup_bars,ready_labels,long_labels,cash_labels,enter_transitions,exit_transitions,ready_labels_released_in_development,first_ready_close,last_ready_close
+daily,2012,49,1963,1345,618,22,22,1962,2011-03-15,2018-12-31
+weekly,417,49,368,320,48,2,1,368,2011-12-16,2018-12-28
+monthly,96,49,47,47,0,1,0,46,2015-02-27,2018-12-31

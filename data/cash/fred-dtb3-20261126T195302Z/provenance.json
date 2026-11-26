@@ -1,0 +1,13 @@
+{
+  "series": "DTB3",
+  "provider": "FRED, Federal Reserve Bank of St. Louis",
+  "source": "Board of Governors of the Federal Reserve System, H.15 Selected Interest Rates",
+  "description": "3-Month Treasury Bill Secondary Market Rate, Discount Basis, daily percent",
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DTB3&cosd=2010-12-20&coed=2022-12-31",
+  "documentation": "https://fred.stlouisfed.org/series/DTB3",
+  "retrieval_verified_utc": "2026-11-26T19:53:02Z",
+  "sha256": "221b43d18886931d8d5207ef94c88ea0de19ab0f59b9327f84aa1d818f34b362",
+  "raw_file": "dtb3.csv",
+  "transformation": "reports/evaluation-protocol.md#cash-proxy-and-sharpe",
+  "vintage": "Historical observations as returned at retrieval; point-in-time revisions not established."
+}

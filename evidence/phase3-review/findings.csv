@@ -1,0 +1,12 @@
+id,status,subject,evidence
+F01,PASS,Frozen inputs and client output/source integrity,SHA-256 matches the recorded references.
+F02,PASS,Client settings versus written scope,Compared Phase 2 parameters with the reviewer transcription.
+F03,PASS,Development session coverage,All 2012 expected XNYS sessions matched.
+F04,PASS,"SMA, warmup, targets and crossover dates",All fields matched within tolerance.
+F05,PASS,"Signal-to-fill dates, opening executions and fees",All fields matched within tolerance.
+F06,PASS,"Daily shares, cash, distributions and equity",All fields matched within tolerance.
+F07,PASS,Submitted accounting totals,All fields matched within tolerance.
+F08,PASS,Metrics recalculated from client equity,All fields matched within tolerance.
+F09,INCONCLUSIVE,Client-submitted performance metric values,Phase 2 submitted equity but no performance metrics. F08 compares recalculations.
+F10,INCONCLUSIVE,Impact of ex-date cash availability,Payment dates and settlement cash were not modeled or tested.
+F11,PASS,"Reviewer cash, shares and equity reconciliation",Checked ending-of-session balances and daily accounting identities.

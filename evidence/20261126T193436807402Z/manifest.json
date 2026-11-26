@@ -1,0 +1,30 @@
+{
+  "snapshot": "20261126T193436807402Z",
+  "started_utc": "2026-11-26T19:34:36.807402+00:00",
+  "provider": "Yahoo Finance via yfinance.Ticker.history",
+  "yfinance_version": "1.8.0",
+  "exchange_calendars_version": "4.13.3",
+  "symbol": "SPY",
+  "request": {
+    "start": "2011-01-01",
+    "end": "2023-01-01",
+    "interval": "1d",
+    "auto_adjust": false,
+    "actions": true,
+    "repair": false,
+    "keepna": true,
+    "raise_errors": true
+  },
+  "trading_timezone": "America/New_York",
+  "calendar": "XNYS (US equity session proxy)",
+  "source_limitations": "Vendor data are subject to revisions and are not exchange-certified. Adjusted close is not an executable transaction price.",
+  "files": {
+    "data/raw/20261126T193436807402Z/spy.csv": "b949c32686c6de01877ab89caedbfb965c16bea8233d182c6cfa935f87996680",
+    "reports/20261126T193436807402Z.md": "9724abfafe5e382c225c3dc3aa9c3545c572e898cd45dd64cc508fc374f1865f"
+  },
+  "retrieved_utc": "2026-11-26T19:34:38.500992+00:00",
+  "price_currency": "USD",
+  "provider_exchange_timezone": "America/New_York",
+  "status": "failed",
+  "error": "DateOutOfBounds: Parameter `start` receieved as '2011-01-01 00:00:00' although cannot be earlier than the first session of calendar 'XNYS' ('2011-01-03 00:00:00')."
+}

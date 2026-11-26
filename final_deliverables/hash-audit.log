@@ -1,0 +1,12 @@
+development sma 51.46% 5.34% 10.19% 25.60%
+development buy_hold 131.79% 11.10% 14.50% 19.33%
+development cash 3.56% 0.44% 0.05% 0.00%
+development fixed_mix 79.31% 7.59% 9.58% 12.79%
+holdout sma 23.14% 5.34% 13.68% 26.13%
+holdout buy_hold 66.20% 13.54% 22.54% 33.70%
+holdout cash 4.63% 1.14% 0.10% 0.00%
+holdout fixed_mix 45.06% 9.75% 14.78% 23.16%
+Historical Phase 3 classifications {'PASS': 9, 'INCONCLUSIVE': 2}
+Historical Phase 4 classifications {'PASS': 5, 'INCONCLUSIVE': 3}
+Historical Phase 5 classifications {'PASS': 3, 'INCONCLUSIVE': 3}
+Verified 163 reference hashes. Inventoried 80 distinct paths including manifests and run logs.

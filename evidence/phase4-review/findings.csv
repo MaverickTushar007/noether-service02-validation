@@ -1,0 +1,9 @@
+id,status,criterion,evidence
+P401,PASS,Integrity and scope,Phase 1–3 references and protocol verified. Development rows matched the calendar.
+P402,PASS,Timing and code-level leakage,Checked 44 fills and closing exposure. A future-price perturbation preserved the development prefix.
+P403,PASS,Uncertainty calculation,Ledger returns matched the reviewer ledger. Explicit block concatenation and deterministic benchmark tests check the sampler.
+P404,INCONCLUSIVE,Positive development-period mean,Protocol requires strictly positive lower bounds for all block lengths. See bootstrap.csv.
+P405,PASS,Exploratory parameter and cost diagnostics,Two independent calculation paths agreed. This checks implementation.
+P406,PASS,Descriptive period timing,Complete exchange periods and next-open release checked for each frequency.
+P407,INCONCLUSIVE,Predictive reliability and incremental value,"No untouched evaluation, risk comparison or benchmark test."
+P408,INCONCLUSIVE,Historical selection and implementation bias,"No selection provenance, publication latency, actual fills or payment-date cash records."

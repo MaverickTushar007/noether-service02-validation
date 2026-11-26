@@ -1,0 +1,7 @@
+id,status,criterion,evidence
+P501,PASS,Frozen input and protocol integrity,Verified all carried-forward hashes and the independent DTB3 snapshot.
+P502,PASS,Matched sessions and one-shot boundary,Claimed holdout once. All books match the 1008 holdout calendar sessions.
+P503,PASS,Independent timing and accounting reconciliation,All portfolio ledgers reconciled. Development SMA reference maximum difference 4.955E-35.
+P504,INCONCLUSIVE,Primary out-of-sample incremental performance,Both compounded return gap and the paired mean-difference interval must support the same direction.
+P505,INCONCLUSIVE,Realistic cash implementation,Verified historical rates support a synthetic proxy. Executable bill total returns and broker yields are unavailable.
+P506,INCONCLUSIVE,Causal attribution and generalization,"One asset and one holdout. Exposure, timing, costs and idle cash economics differ."

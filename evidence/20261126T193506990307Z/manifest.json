@@ -1,0 +1,31 @@
+{
+  "snapshot": "20261126T193506990307Z",
+  "started_utc": "2026-11-26T19:35:06.990307+00:00",
+  "provider": "Yahoo Finance via yfinance.Ticker.history",
+  "yfinance_version": "1.8.0",
+  "exchange_calendars_version": "4.13.3",
+  "symbol": "SPY",
+  "request": {
+    "start": "2011-01-01",
+    "end": "2023-01-01",
+    "interval": "1d",
+    "auto_adjust": false,
+    "actions": true,
+    "repair": false,
+    "keepna": true
+  },
+  "yfinance_hide_exceptions": false,
+  "trading_timezone": "America/New_York",
+  "calendar": "XNYS (US equity session proxy)",
+  "source_limitations": "Vendor data are subject to revisions and are not exchange-certified. Adjusted close is not an executable transaction price.",
+  "files": {
+    "data/raw/20261126T193506990307Z/spy.csv": "fc1ae03b018d63b75fa01f9f2163d3c17577a1d2370b7572e0b2c422b415e577",
+    "evidence/20261126T193506990307Z/audit.json": "b16d310869270a25d7f949ff8987cf6a79c0ea9eaf3363a3907d766939ace90b",
+    "reports/20261126T193506990307Z.md": "dc5773390581d403ab6cbeef7da6561898a6cafba15cf930d3aeda2a9b287a06",
+    "data/analysis/20261126T193506990307Z/spy.csv": "6a15b1c2c2a308922c7d9ad30942ba09c17ca29a3dc9e4452210db4d0af6dfa9"
+  },
+  "retrieved_utc": "2026-11-26T19:35:08.725979+00:00",
+  "price_currency": "USD",
+  "provider_exchange_timezone": "America/New_York",
+  "status": "complete"
+}

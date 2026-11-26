@@ -1,0 +1,8 @@
+# Roosevelt briefing notes
+
+- **Open with the mandate.** This is an internal Noether Meridian methodology demonstration using a hypothetical SPY model. There is no real client model, certification or signed approval.
+- **Explain computational independence.** The Phase 3 reviewer used separate arithmetic and reconciled 57 fields. A target formed after Monday's close can fill at the next session's open. The controlled same-close example demonstrates how the audit catches an invalid fill.
+- **Separate correctness from reliability.** Development CAGR was 5.34%. The three moving-block intervals for annualized arithmetic mean return included zero. The uncertainty remains meaningful even after the arithmetic is verified.
+- **Lead with the primary benchmark.** Holdout cumulative returns were 23.14% for the SMA and 45.06% for the fixed mix. The observed cumulative gap was −21.92 points. The paired arithmetic gap annualized to −4.25 points, with a 95% interval from −13.31 to +7.01. These are distinct quantities. The primary result is inconclusive.
+- **Discuss risk and cash.** The SMA cushioned the prespecified 2020 selloff but lagged the rebound and had a deeper maximum holdout drawdown than the mix. The SMA earns no interest on idle cash while benchmark cash accrues DTB3 proxy interest. The effect of harmonizing cash is open. Ex-date availability and open-fill costs are also modeled.
+- **Close with the decision.** Assign an authorized reviewer, decide whether a matched-cash or settlement sensitivity is warranted, and define the hurdle and execution evidence needed in a future engagement. Keep sign-off PENDING.

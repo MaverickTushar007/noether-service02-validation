@@ -1,0 +1,14 @@
+asset: SPY
+sma:
+  fast: 21
+  slow: 50
+analysis_frequencies: [daily, weekly, monthly]
+development: {start: '2011-01-01', end: '2018-12-31'}
+holdout: {start: '2019-01-01', end: '2022-12-31', status: untouched_for_strategy_research}
+proposed_future_checks:
+  - mathematical reproduction
+  - bias
+  - leakage
+  - sensitivity
+  - robustness
+  - benchmark comparison
